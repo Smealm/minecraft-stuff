@@ -4,7 +4,10 @@ changes:
 1. mod loader changed from fabric to neoforge
 2. added fabric compatiblity layer using [Sinytra Connector](https://modrinth.com/mod/connector), [Connector Extras](https://modrinth.com/mod/connector-extras) and [Forgified Fabric API](https://modrinth.com/mod/forgified-fabric-api)
 
-note: this fork has not been tested in any way shape or form. also the modpack description falsely claims that it adds mods that i felt like should be added. this is false and i simply forgot to edit the description before pushing this out.
+note: this fork has not been tested in any way shape or form.
+
+ also the modpack description falsely claims that it adds mods that i felt like should be added. this is false and i simply forgot to edit the description before pushing this out.
+
 actions taken: 
 1. make fresh cobbleverse install with all optional mods enabled
 2. note minecraft version
